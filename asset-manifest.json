@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bf538fe7.css",
+    "main.js": "/static/js/main.35d650d6.js",
+    "static/media/cobhome.png": "/static/media/cobhome.16a5880ad5fb8f4afb0b.png",
+    "static/media/knothub_home.png": "/static/media/knothub_home.aec027613039843f309a.png",
+    "static/media/chronQuill_home.png": "/static/media/chronQuill_home.b41f8c06be2ff7f01850.png",
+    "static/media/Samridhi_wellbeing.png": "/static/media/Samridhi_wellbeing.b96a8deac5aadf412107.png",
+    "static/media/HeroImage.jpg": "/static/media/HeroImage.cd22d92474f54d8ad991.jpg",
+    "static/media/weather.png": "/static/media/weather.f7ca29a1ee64da80b1fb.png",
+    "static/media/faceimg_home.png": "/static/media/faceimg_home.e0e4f78365e8528bdd18.png",
+    "static/media/energy_img.png": "/static/media/energy_img.b976dbedd99906dcc650.png",
+    "static/media/Chandigarh_University_Seal.png": "/static/media/Chandigarh_University_Seal.107fae8bae3154899f36.png",
+    "static/media/vsss.jpg": "/static/media/vsss.4198e9b23130c2474ebd.jpg",
+    "static/media/expense_tracker.png": "/static/media/expense_tracker.cbc7030d1e33f56d0865.png",
+    "index.html": "/index.html",
+    "main.bf538fe7.css.map": "/static/css/main.bf538fe7.css.map",
+    "main.35d650d6.js.map": "/static/js/main.35d650d6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf538fe7.css",
+    "static/js/main.35d650d6.js"
+  ]
+}
